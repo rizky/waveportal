@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/waveportal/static/css/main.0e632e19.chunk.css",
+    "main.js": "/waveportal/static/js/main.5bc2715b.chunk.js",
+    "main.js.map": "/waveportal/static/js/main.5bc2715b.chunk.js.map",
+    "runtime-main.js": "/waveportal/static/js/runtime-main.21e87cc8.js",
+    "runtime-main.js.map": "/waveportal/static/js/runtime-main.21e87cc8.js.map",
+    "static/js/2.c526ec28.chunk.js": "/waveportal/static/js/2.c526ec28.chunk.js",
+    "static/js/2.c526ec28.chunk.js.map": "/waveportal/static/js/2.c526ec28.chunk.js.map",
+    "index.html": "/waveportal/index.html",
+    "precache-manifest.40c8245895a4a4474de9fa0f9e743cf2.js": "/waveportal/precache-manifest.40c8245895a4a4474de9fa0f9e743cf2.js",
+    "service-worker.js": "/waveportal/service-worker.js",
+    "static/css/main.0e632e19.chunk.css.map": "/waveportal/static/css/main.0e632e19.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21e87cc8.js",
+    "static/js/2.c526ec28.chunk.js",
+    "static/css/main.0e632e19.chunk.css",
+    "static/js/main.5bc2715b.chunk.js"
+  ]
+}
