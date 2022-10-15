@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a398a80e5f607d7c7b6eca2e0ed47fe",
+    "revision": "52a515519ab1fe6e72f37791f5e837d8",
     "url": "/waveportal/index.html"
   },
   {
-    "revision": "46d342dd9e7d3961e9dd",
+    "revision": "26dd4bbf2ef3a5457257",
     "url": "/waveportal/static/css/main.0e632e19.chunk.css"
   },
   {
-    "revision": "f1d3d52cb70c6a80652c",
-    "url": "/waveportal/static/js/2.c526ec28.chunk.js"
+    "revision": "0c4b7a1a0cd1627f11b0",
+    "url": "/waveportal/static/js/2.57e111e8.chunk.js"
   },
   {
-    "revision": "46d342dd9e7d3961e9dd",
-    "url": "/waveportal/static/js/main.82c9006e.chunk.js"
+    "revision": "26dd4bbf2ef3a5457257",
+    "url": "/waveportal/static/js/main.e6ed0189.chunk.js"
   },
   {
     "revision": "b6d62a30241270d78de1",
