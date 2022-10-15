@@ -44,7 +44,7 @@ const App = () => {
   const [currentAccount, setCurrentAccount] = useState("");
   const [allWaves, setAllWaves] = useState<WavePortal.WaveStruct[]>([]);
 
-  const contractAddress = "0x4d933f548B520A2b51872a577000e33FB0f64eE8";
+  const contractAddress = "0x369e7773a52d63682dc2178e876116a1117730a2";
   const contractABI = abi.abi;
 
   const getAllWaves = async () => {
